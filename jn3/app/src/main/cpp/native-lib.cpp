@@ -1,6 +1,7 @@
 #include <jni.h>
 #include <string>
 
+#include "utils/strutils.h"
 
 extern "C" JNIEXPORT jstring JNICALL
 Java_com_example_jn3_MainActivity_stringFromJNI(
@@ -20,9 +21,15 @@ static jstring stringFromJNI(JNIEnv *env, jobject obj) {
 
 jstring setString(JNIEnv *env, jobject instance, jstring str_) {
 
-    return str_;
-}
 
+    char * str = _JString2CStr(env,str_);
+    char buffer[1024]={0};
+    sprintf(buffer," hahaha :%s",str);
+    std::string s = buffer;
+
+    printf("set strnig :%s",str);
+    return ToJString(env,s);
+}
 
 
 //参数映射表
