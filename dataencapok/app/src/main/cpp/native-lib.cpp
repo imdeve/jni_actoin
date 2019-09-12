@@ -51,7 +51,7 @@ JNIEXPORT jobjectArray JNICALL
 Java_com_example_freedom_MyJni_getStringArray(JNIEnv *env, jobject instance) {
     const char * wordArr[]={"hello","world","haha","yes","no"};
     jsize  size = 5;
-    jclass  strClaz= env->FindClass("java.lang.String");
+    jclass  strClaz= env->FindClass("java/lang/String");
     jobjectArray strs = env->NewObjectArray(size,strClaz,0);
 
     for (jsize i=0;i<size;i++)
@@ -72,7 +72,7 @@ Java_com_example_freedom_MyJni_getStruct(JNIEnv *env, jobject instance) {
     std::string name="disk:F";
     jint serial = 100;
 //    (Ljava/lang/String;I)V
-    jmethodID  diskInfoContructodMethod= env->GetMethodID(DiskInfoClaz,"<int>","(Ljava.lang.String;I)V");
+    jmethodID  diskInfoContructodMethod= env->GetMethodID(DiskInfoClaz,"<int>","(Ljava/lang/String;I)V");
     jobject  diskInfoInstance = env->NewObject(DiskInfoClaz,diskInfoContructodMethod,env->NewStringUTF(name.c_str()),serial);
 
     return diskInfoInstance;
