@@ -2,8 +2,10 @@ package com.example.jn3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 import android.os.Bundle;
 import android.widget.TextView;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = findViewById(R.id.sample_text);
         String value = stringFromJNI()+ setString(" from wenweiping");
         tv.setText(value);
+
+        MyJNI.testGo();
+
     }
 
     /**

@@ -2,14 +2,15 @@
 #include <string>
 
 #include "utils/strutils.h"
+#include "business/auth/structhello.h"
 
-extern "C" JNIEXPORT jstring JNICALL
-Java_com_example_jn3_MainActivity_stringFromJNI(
-        JNIEnv *env,
-        jobject /* this */) {
-    std::string hello = "Hello from C++";
-    return env->NewStringUTF(hello.c_str());
-}
+//extern "C" JNIEXPORT jstring JNICALL
+//Java_com_example_jn3_MainActivity_stringFromJNI(
+//        JNIEnv *env,
+//        jobject /* this */) {
+//    std::string hello = "Hello from C++";
+//    return env->NewStringUTF(hello.c_str());
+//}
 
 
 
@@ -19,7 +20,7 @@ static jstring stringFromJNI(JNIEnv *env, jobject obj) {
     return env->NewStringUTF("欢迎来到jin的世界...");
 }
 
-jstring setString(JNIEnv *env, jobject instance, jstring str_) {
+static jstring setString(JNIEnv *env, jobject instance, jstring str_) {
 
 
     char * str = _JString2CStr(env,str_);
@@ -68,6 +69,11 @@ JNIEXPORT jint JNI_OnLoad(JavaVM *vm, void *reserved) {
     if (registerNatives(env) < 0) {
         return result;
     }
+    /***
+    if (registerNatives_MYJNI(env) < 0) {
+        return result;
+    }
+     ***/
 
     return JNI_VERSION_1_6;
 }
