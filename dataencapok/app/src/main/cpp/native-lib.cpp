@@ -72,8 +72,16 @@ Java_com_example_freedom_MyJni_getStruct(JNIEnv *env, jobject instance) {
     std::string name="disk:F";
     jint serial = 100;
 //    (Ljava/lang/String;I)V
-    jmethodID  diskInfoContructodMethod= env->GetMethodID(DiskInfoClaz,"<int>","(Ljava/lang/String;I)V");
-    jobject  diskInfoInstance = env->NewObject(DiskInfoClaz,diskInfoContructodMethod,env->NewStringUTF(name.c_str()),serial);
+
+/****
+ * 构造函数不带参数
+ *  jmethodID  diskInfoContructodMethod= env->GetMethodID(DiskInfoClaz,"<init>","()V");
+    jobject  diskInfoInstance = env->NewObject(DiskInfoClaz,diskInfoContructodMethod);
+ */
+    jmethodID  diskInfoContructodMethod= env->GetMethodID(DiskInfoClaz,"<init>","(Ljava/lang/String;I)V");
+    std::string msg = "我的磁盘名字是 D:";
+    jstring diskName = env->NewStringUTF(msg.c_str());
+    jobject  diskInfoInstance = env->NewObject(DiskInfoClaz,diskInfoContructodMethod,diskName,serial);
 
     return diskInfoInstance;
 }
