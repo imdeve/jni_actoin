@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="D:/Program files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
-					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,40 +53,40 @@
 					<Add directory="D:/Program files/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/mingw64/bin/mingw32-make.exe -f &quot;E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Administrator/CLionProjects/untitled1/main.cpp">
+		<Unit filename="E:/dev/work/app/android/taskpoolinjni-callback/main.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/untitled1/task/task.cpp">
+		<Unit filename="E:/dev/work/app/android/taskpoolinjni-callback/task/task.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/Administrator/CLionProjects/untitled1/CMakeLists.txt">
+		<Unit filename="E:/dev/work/app/android/taskpoolinjni-callback/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

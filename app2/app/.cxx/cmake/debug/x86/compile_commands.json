@@ -1,0 +1,49 @@
+[
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\JNIThreadPool.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\JNIThreadPool.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\JNIThreadPool.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\Task.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\Task.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\Task.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\job.c.o   -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\job.c",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\task\\job.c"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\sdkout\\androidSdkOut.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\sdkout\\androidSdkOut.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\sdkout\\androidSdkOut.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\BaseCallback.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\callbacks\\BaseCallback.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\callbacks\\BaseCallback.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\callbacks\\TeamCallback.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\callbacks\\TeamCallback.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\callbacks\\TeamCallback.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/ThreadPoolCallback/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\clog\\clog.cpp.o -c E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\clog\\clog.cpp",
+  "file": "E:\\dev\\work\\app\\ThreadPoolCallback\\app\\src\\main\\cpp\\clog\\clog.cpp"
+}
+]

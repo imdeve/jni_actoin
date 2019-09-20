@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/CLionProjects/untitled1/main.cpp" "C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
-  "C:/Users/Administrator/CLionProjects/untitled1/task/task.cpp" "C:/Users/Administrator/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/task/task.cpp.obj"
+  "E:/dev/work/app/android/taskpoolinjni-callback/main.cpp" "E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
+  "E:/dev/work/app/android/taskpoolinjni-callback/task/task.cpp" "E:/dev/work/app/android/taskpoolinjni-callback/cmake-build-debug/CMakeFiles/untitled1.dir/task/task.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

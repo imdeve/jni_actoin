@@ -42,10 +42,10 @@ RM = D:\dev_soft\clion2019\CLion2018.2.3\bin\cmake\win\bin\cmake.exe -E remove -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Administrator\CLionProjects\untitled1
+CMAKE_SOURCE_DIR = E:\dev\work\app\android\taskpoolinjni-callback
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug
+CMAKE_BINARY_DIR = E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled1.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/untitled1.dir/flags.make
 
 CMakeFiles/untitled1.dir/main.cpp.obj: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled1.dir\main.cpp.obj -c C:\Users\Administrator\CLionProjects\untitled1\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled1.dir\main.cpp.obj -c E:\dev\work\app\android\taskpoolinjni-callback\main.cpp
 
 CMakeFiles/untitled1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/main.cpp.i"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\CLionProjects\untitled1\main.cpp > CMakeFiles\untitled1.dir\main.cpp.i
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\dev\work\app\android\taskpoolinjni-callback\main.cpp > CMakeFiles\untitled1.dir\main.cpp.i
 
 CMakeFiles/untitled1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/main.cpp.s"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\CLionProjects\untitled1\main.cpp -o CMakeFiles\untitled1.dir\main.cpp.s
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\dev\work\app\android\taskpoolinjni-callback\main.cpp -o CMakeFiles\untitled1.dir\main.cpp.s
 
 CMakeFiles/untitled1.dir/task/task.cpp.obj: CMakeFiles/untitled1.dir/flags.make
 CMakeFiles/untitled1.dir/task/task.cpp.obj: ../task/task.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/task/task.cpp.obj"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled1.dir\task\task.cpp.obj -c C:\Users\Administrator\CLionProjects\untitled1\task\task.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/task/task.cpp.obj"
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled1.dir\task\task.cpp.obj -c E:\dev\work\app\android\taskpoolinjni-callback\task\task.cpp
 
 CMakeFiles/untitled1.dir/task/task.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/task/task.cpp.i"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\CLionProjects\untitled1\task\task.cpp > CMakeFiles\untitled1.dir\task\task.cpp.i
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\dev\work\app\android\taskpoolinjni-callback\task\task.cpp > CMakeFiles\untitled1.dir\task\task.cpp.i
 
 CMakeFiles/untitled1.dir/task/task.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/task/task.cpp.s"
-	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\CLionProjects\untitled1\task\task.cpp -o CMakeFiles\untitled1.dir\task\task.cpp.s
+	D:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\dev\work\app\android\taskpoolinjni-callback\task\task.cpp -o CMakeFiles\untitled1.dir\task\task.cpp.s
 
 # Object files for target untitled1
 untitled1_OBJECTS = \
@@ -96,7 +96,7 @@ untitled1.exe: CMakeFiles/untitled1.dir/build.make
 untitled1.exe: CMakeFiles/untitled1.dir/linklibs.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/objects1.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/untitled1.dir/clean:
 .PHONY : CMakeFiles/untitled1.dir/clean
 
 CMakeFiles/untitled1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Administrator\CLionProjects\untitled1 C:\Users\Administrator\CLionProjects\untitled1 C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug C:\Users\Administrator\CLionProjects\untitled1\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\dev\work\app\android\taskpoolinjni-callback E:\dev\work\app\android\taskpoolinjni-callback E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug E:\dev\work\app\android\taskpoolinjni-callback\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled1.dir/depend
 

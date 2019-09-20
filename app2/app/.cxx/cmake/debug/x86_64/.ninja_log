@@ -1,0 +1,25 @@
+# ninja log v5
+0	470	590682064	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+471	710	590682064	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	f939b38779a8486b
+69	392	590682528	CMakeFiles/native-lib.dir/task/job.c.o	dec039a78ba79253
+24	622	590682528	CMakeFiles/native-lib.dir/task/JNIThreadPool.cpp.o	4dbc196b48d8552c
+47	674	590682528	CMakeFiles/native-lib.dir/sdkout/androidSdkOut.cpp.o	e9bd747a39cc0be6
+2	881	590682528	CMakeFiles/native-lib.dir/task/Task.cpp.o	1877892523237f5d
+97	1041	590682529	CMakeFiles/native-lib.dir/callbacks/TeamCallback.cpp.o	69d84d77c14f4154
+160	1049	590682529	CMakeFiles/native-lib.dir/callbacks/BaseCallback.cpp.o	39d86dcca15a40d4
+1049	1351	590682529	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+3	786	590683119	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+786	1559	590683120	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+3	700	590683509	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+700	1000	590683510	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+3	675	590684315	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+675	957	590684316	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+3	934	590684693	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+935	1209	590684693	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+4	675	590685413	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+675	996	590685413	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+3	694	590685499	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+694	981	590685499	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	23af61a52689175d
+26	162	590686167	CMakeFiles/native-lib.dir/clog/clog.cpp.o	2b530107f10dafd1
+2	701	590686168	CMakeFiles/native-lib.dir/native-lib.cpp.o	d7fac4c392f0a5be
+701	1009	590686168	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1e76db71296747b2

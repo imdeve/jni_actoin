@@ -152,6 +152,7 @@ Java_com_example_freedom_MyJni_getStructList(JNIEnv *env, jobject instance) {
     std::string pathName = "我的磁盘名字是 D:";
     jstring pathNameValue = env->NewStringUTF(pathName.c_str());
     jobject list_obj = env->NewObject(list_cls , list_costruct); //创建一个Arraylist集合对象
+    // public boolean add(E e) 泛型 本身就是底层是object传递，上层的语言接入层的语法糖
     jmethodID list_add  = env->GetMethodID(list_cls,"add","(Ljava/lang/Object;)Z");
 
     jsize size =5;

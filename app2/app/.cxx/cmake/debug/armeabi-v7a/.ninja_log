@@ -1,0 +1,27 @@
+# ninja log v5
+0	462	590682062	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+463	646	590682062	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	be1595b75a0388c
+45	371	590682523	CMakeFiles/native-lib.dir/task/job.c.o	2483244aae3d20e7
+2	537	590682523	CMakeFiles/native-lib.dir/task/JNIThreadPool.cpp.o	1b446ff4b797148b
+92	752	590682524	CMakeFiles/native-lib.dir/sdkout/androidSdkOut.cpp.o	809abceeaf0e78b1
+67	912	590682524	CMakeFiles/native-lib.dir/callbacks/BaseCallback.cpp.o	551db736c831b477
+24	945	590682524	CMakeFiles/native-lib.dir/task/Task.cpp.o	c8564c8d54f0f621
+129	1073	590682524	CMakeFiles/native-lib.dir/callbacks/TeamCallback.cpp.o	df20fec22561ce0d
+1074	1379	590682524	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	1041	590683115	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+1041	1592	590683116	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+2	701	590683506	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+701	1007	590683506	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	684	590684312	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+684	1000	590684312	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	659	590684690	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+660	955	590684690	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	663	590685409	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+664	1018	590685409	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	689	590685495	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+689	1161	590685496	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c1a82bf96ae0134
+3	657	590685956	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+3	439	590685977	CMakeFiles/native-lib.dir/clog/clog.cpp.o	e4fc516123b7500e
+26	181	590686164	CMakeFiles/native-lib.dir/clog/clog.cpp.o	e4fc516123b7500e
+3	721	590686164	CMakeFiles/native-lib.dir/native-lib.cpp.o	dda5567ccfa6afe8
+721	1057	590686164	E:/dev/work/app/ThreadPoolCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	5b830cfdec87f1b3

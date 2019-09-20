@@ -7,11 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../CMakeLists.txt"
-  "CMakeFiles/3.12.1/CMakeCCompiler.cmake"
-  "CMakeFiles/3.12.1/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.12.1/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.12.1/CMakeSystem.cmake"
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/CMakeCInformation.cmake"
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/CMakeCXXInformation.cmake"
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake"
@@ -36,6 +31,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/Platform/Windows.cmake"
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake"
   "D:/dev_soft/clion2019/CLion2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/ProcessorCount.cmake"
+  "../CMakeLists.txt"
+  "CMakeFiles/3.12.1/CMakeCCompiler.cmake"
+  "CMakeFiles/3.12.1/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.12.1/CMakeRCCompiler.cmake"
+  "CMakeFiles/3.12.1/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:
@@ -51,5 +51,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/untitled1.dir/DependInfo.cmake"
+  "CMakeFiles/taskpoolinjni-callback.dir/DependInfo.cmake"
   )
